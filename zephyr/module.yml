@@ -1,0 +1,3 @@
+name: tinyMaix
+build:
+  cmake: ./

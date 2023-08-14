@@ -1,0 +1,7 @@
+# SPDX-License-Identifier: Apache-2.0
+
+menuconfig TINY_MAIX
+        bool "TINY_MAIX"
+        default n
+
+endif
