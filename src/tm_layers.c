@@ -12,7 +12,7 @@ limitations under the License.
 // It is default O0 implement
 #include "tinymaix.h"
 #include "float.h"
-#include "math.h"
+#include <math.h>
 
 #if TM_OPT_LEVEL == TM_OPT0
 

@@ -3,5 +3,3 @@
 menuconfig TINY_MAIX
         bool "TINY_MAIX"
         default n
-
-endif
