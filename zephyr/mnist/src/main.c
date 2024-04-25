@@ -5,13 +5,16 @@
  */
 
 #include <zephyr/kernel.h>
+// #define LOG_LEVEL CONFIG_LOG_DEFAULT_LEVEL
+// #include <zephyr/logging/log.h>
+// LOG_MODULE_REGISTER(main);
 
 // int main(void)
 // {
 // 	printk("Hello World! %s\n", CONFIG_BOARD);
 // 	return 0;
 // }
-
+// #define LOG_INF printk
 /* Copyright 2022 Sipeed Technology Co., Ltd. All Rights Reserved.
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
